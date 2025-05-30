@@ -61,7 +61,7 @@ The app will be available at `http://localhost:8501`
 ## Configuration
 
 The app is currently configured to use:
-- **Model**: `gcp/generate/models/gemini-2_5-pro` (Clarifai)
+- **Model**: `gcp/generate/models/gemini-2_5-pro` (Clarifai) - [View Model](https://clarifai.com/gcp/generate/models/gemini-2_5-pro)
 - **API Base**: `https://api.clarifai.com/v2/ext/openai/v1`
 
 You can modify these settings in `app.py` if needed.
