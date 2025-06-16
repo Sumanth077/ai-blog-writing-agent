@@ -10,7 +10,7 @@ from newspaper import Article
 server = FastMCP("blog_writing_search_mcp")
 
 # SerpAPI key
-SERPAPI_API_KEY = "a39444e3bb6d7db08382602ad61c37adc8af196e941be93ee7d2bfdb96ba530b"
+SERPAPI_API_KEY = "YOUR_API_KEY"
 
 @server.tool(
     "multi_engine_search",
